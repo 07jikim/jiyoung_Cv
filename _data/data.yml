@@ -130,13 +130,17 @@ projects:
       link: "#"
       tagline: "A responsive website template designed to help web developers/designers market their services."
 
+   - title: Varroa mites
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
+
 oss:
   title: Conference
   contributions:
-    - title: "📌  40th Annual Meeting of Apicultural Society of Korea, with the International Conference of COLOSS Asia"
+    - title: "📌  40th Annual Meeting of Apicultural Society of Korea, with the International Conference of COLOSS Asia (Awarded)"
       date: 2024-01
       
-    - title: "📌  International Journal of Industrial Entomology and Biomaterials"
+    - title: "📌  International Journal of Industrial Entomology and Biomaterials (Awarded)"
       start: 2024-05-23 (Awarded)
       
     - title: "📌  Korean Society of Applied Entomology & The Entomological Society of Korea 2024 Spring Conference"
