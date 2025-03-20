@@ -87,13 +87,7 @@ experiences:
           - Insect Virus Sequence and Structure Analysis
           - Virus Research through Transcriptomics and Genomics
         
-    - role: Laboratory Research Intern Student
-      time: 2021 - 2022
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
-          - Bullet point
-          - Bullet point
+
 
 certifications:
   title: Fellowships
@@ -136,7 +130,7 @@ oss:
   contributions:
     - title: "40th Annual Meeting of Apicultural Society of Korea, with the International Conference of COLOSS Asia"
       start: 2024-01
-    - title: "International Journal of Industrial Entomology and Biomaterials"
+    - title: "📌International Journal of Industrial Entomology and Biomaterials"
       start: 2024-05-23 (Awarded)
     - title: "Korean Society of Applied Entomology & The Entomological Society of Korea 2024 Spring Conference"
       start: 2024-04-25
