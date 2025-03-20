@@ -99,12 +99,17 @@ certifications:
         Selected as a scholarship recipient for the 17th Statistical Genetics Workshop (2023) in the 
         Metagenome Analysis - Basics (16S rRNA gene sequencing data) program
 
+
+
     - name: JBNU Research Fair
       start: 2023-09-25
       organization: University of Jeonbuk National
       details: |
         Received the Excellence Award and a scholarship for an oral presentation on Research Fair
         Complete Genome Sequence of an Oryctes rhinoceros Nudivirus
+
+
+
 
     - name: BK21 FOUR Program by Jeonbuk National University Research Grant
       start: 2024-09
@@ -128,13 +133,16 @@ projects:
 oss:
   title: Conference
   contributions:
-    - title: "40th Annual Meeting of Apicultural Society of Korea, with the International Conference of COLOSS Asia"
-      start: 2024-01
-    - title: "📌International Journal of Industrial Entomology and Biomaterials"
+    - title: "📌  40th Annual Meeting of Apicultural Society of Korea, with the International Conference of COLOSS Asia"
+      date: 2024-01
+      
+    - title: "📌  International Journal of Industrial Entomology and Biomaterials"
       start: 2024-05-23 (Awarded)
-    - title: "Korean Society of Applied Entomology & The Entomological Society of Korea 2024 Spring Conference"
+      
+    - title: "📌  Korean Society of Applied Entomology & The Entomological Society of Korea 2024 Spring Conference"
       start: 2024-04-25
-    - title: "The 40th Conference of the Apicultural Society of Korea"
+    
+    - title: "📌  The 40th Conference of the Apicultural Society of Korea"
       start: 2024
 
       
