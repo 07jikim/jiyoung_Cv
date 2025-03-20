@@ -134,4 +134,17 @@ oss:
       start: 2024-04-25
     - title: "The 40th Conference of the Apicultural Society of Korea"
       start: 2024
-   
+
+      
+   publications:
+  title: Publications
+  intro: |
+    List of publications:
+  papers:
+    - title: "Complete Genome Sequence of an Oryctes Rhinoceros Nudivirus Isolated from Korean Rhinoceros Beetles (Trypoxylus Dichotomus) in Korea."
+      link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485680/"
+      authors: "Ji-Young Kim, Eunsun Kim, Wontae Kim, Seokhyun Lee, Kwan-Ho Park, June-Sun Yoon"
+      conference: "Virus Research, 2023"
+
+footer: |
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
