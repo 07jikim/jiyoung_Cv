@@ -49,24 +49,29 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: MSc in Insect Molecular Biology
-      university: University of Jeonbuk National
-      time: 2023 - 2025
-      details: |
-        Insect Physiology and Molecular Biology Laboratory
-        Advisor: June-Sun Yoon
-        Insect Pathogen Study using Bioinformatics and Molecular Biology
-          - Insect Virus Sequence and Structure Analysis
-          - Virus Research through Transcriptomics and Genomics
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
-    - degree: BSc in Agricultural Biology
-      university: University of Jeonbuk National
-      time: 2019 - 2023
-      details: |
-        As a student in the Department of Agricultural Biology, 
-        I have studied insect physiology and various aspects of plant physiology
-          - Entomology
-          - Plant Physiology
 
 
 experiences:
