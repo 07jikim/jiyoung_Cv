@@ -136,7 +136,7 @@ oss:
       start: 2024
 
       
-   publications:
+publications:
   title: Publications
   intro: |
     List of publications:
@@ -145,6 +145,3 @@ oss:
       link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485680/"
       authors: "Ji-Young Kim, Eunsun Kim, Wontae Kim, Seokhyun Lee, Kwan-Ho Park, June-Sun Yoon"
       conference: "Virus Research, 2023"
-
-footer: |
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
