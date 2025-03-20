@@ -92,7 +92,7 @@ experiences:
 certifications:
   title: Fellowships
   list:
-    -  name:  17th Asian Institute in Statistical Genetics and Genomics
+    - name:  17th Asian Institute in Statistical Genetics and Genomics
       start: 2023-07-17
       organization: Korea Genome Organization
       details: |
@@ -101,7 +101,7 @@ certifications:
 
    # ----------------------------------------- #
 
-    -  name:  JBNU Research Fair
+    - name:  JBNU Research Fair
       start: 2023-09-25
       organization: University of Jeonbuk National
       details: |
