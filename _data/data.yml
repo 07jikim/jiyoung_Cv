@@ -41,9 +41,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    - I am a master's student with a keen interest in the interactions of viruses within insect hosts.
-    - Currently, I employ next-generation sequencing (NGS) approaches to investigate the evolutionary relationships and genomes of viruses. 
-    - I have expertise in various molecular biology techniques and bioinformatics skills for virome analysis and genomic exploration
+    - I am a master's student with a interest in the interactions of viruses within insecst.
+    
+    - Currently, I employ NGS approaches to investigate the evolutionary relationships of viruses. 
+    
+    - I have expertise in various molecular biology techniques and bioinformatics skills
 
 
 education:
