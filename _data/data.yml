@@ -8,7 +8,7 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ji Young Kim_wwwww
+  name: Ji Young Kim
   tagline: Ms students 
   avatar: DELETE.jpg # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -145,3 +145,9 @@ publications:
       link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485680/"
       authors: "Ji-Young Kim, Eunsun Kim, Wontae Kim, Seokhyun Lee, Kwan-Ho Park, June-Sun Yoon"
       conference: "Virus Research, 2023"
+
+    - title: "Crisis in South Korean Cricket Farms: Occurrence of Gryllus Bimaculatus Densovirus and Its Spread."
+      link: "https://brill.com/view/journals/jiff/10/11/article-p1905_13.xml"
+      authors: Eunsun Kim, J.R., Ji-Young Kim., Bennett, F.H., Keane, June-Sun Yoon
+      conference: "Journal of Insects as Food and Feed, (2024)"
+
