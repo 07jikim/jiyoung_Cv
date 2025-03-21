@@ -125,7 +125,7 @@ certifications:
 projects:
   title: Projects
   intro: |
-    List of personal and research projects:
+    # List of personal and research projects:
   assignments:
     - title: Evolution and host adaptability of viruses
       link: "#hook"
