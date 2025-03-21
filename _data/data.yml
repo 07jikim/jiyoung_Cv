@@ -82,7 +82,7 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: <strong> Laboratory Research Student </strong>
+    - role: Laboratory Research Student
       time: 2023 - Present
       company: Jeonbuk National University 
       details: |
@@ -98,7 +98,7 @@ experiences:
 certifications:
   title: Fellowships
   list:
-    - name:<strong> 17th Asian Institute in Statistical Genetics and Genomics </strong>
+    - name: 17th Asian Institute in Statistical Genetics and Genomics
       start: 2023-07-17
       organization: Korea Genome Organization
       details: |
