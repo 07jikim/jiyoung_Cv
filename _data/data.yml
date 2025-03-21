@@ -51,7 +51,7 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: <strong> MSc in Insect Molecular Biology </strong>
+  - degree: <strong>MSc in Insect Molecular Biology</strong>
   
     university: University of Jeonbuk National
     time: 2023 - 2025
@@ -65,7 +65,7 @@ education:
         - Using RNAi to control pest or protect beneficial insects from pathogens. 
 
         
-  - degree: BSc in Agricultural Biology
+  - degree: <strong>BSc in Agricultural Biology</strong>
     university: University of Jeonbuk National
     time: 2019 - 2023
     details: |
