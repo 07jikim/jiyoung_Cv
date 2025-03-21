@@ -106,7 +106,7 @@ certifications:
 
    # ----------------------------------------- #
 
-    - name:  JBNU Research Fair
+    - name: <strong>JBNU Research Fair</strong>
       start: 2023-09-25
       organization: University of Jeonbuk National
       details: |
@@ -116,7 +116,7 @@ certifications:
    # ----------------------------------------- #
 
 
-    - name: BK21 FOUR Program by Jeonbuk National University Research Grant
+    - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
       start: 2024-09
       organization: University of Jeonbuk National
       details: |
