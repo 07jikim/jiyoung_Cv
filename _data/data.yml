@@ -78,7 +78,7 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Laboratory Research Student
+    - role: <strong>Laboratory Research Student</strong>
       time: 2023 - Present
       company: Jeonbuk National University 
       details: |
