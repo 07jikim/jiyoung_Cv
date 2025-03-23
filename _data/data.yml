@@ -107,11 +107,11 @@ certifications:
    # ----------------------------------------- #
 
 
-    - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
-      start: 2024-09
-      organization: University of Jeonbuk National
+    - name: <strong>Student Presentation Award</strong>
+      start: 2024-02-22
+      organization: 40th Annual Meeting of the Apicultural Society of Korea with the International Conference of COLOSS Asia 2024
       details: |
-        Awarded a research grant of KRW 3,000,000 (~2,200 USD as of Mar 2024).
+        Presentation Award, “Metagenomic Analysis of Viral Diversity in _Apis cerana_ Genome”.
 
     - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
       start: 2024-09
