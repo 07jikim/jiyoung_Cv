@@ -92,8 +92,7 @@ certifications:
     - name: <strong>17th Asian Institute in Statistical Genetics and Genomics</strong>
       start: 2023-07-17
       organization: Korea Genome Organization
-      details: |
-      Selected as a scholarship recipient for the 17th Statistical Genetics Workshop (2023) 
+      details: Selected as a scholarship recipient for the 17th Statistical Genetics Workshop (2023) 
 
    # ----------------------------------------- #
 
@@ -101,7 +100,7 @@ certifications:
       start: 2023-09-25
       organization: University of Jeonbuk National
       details: |
-        Received the Excellence Award and a scholarship for an oral presentation at Research Fair.      
+        Received the Excellence Award and a scholarship for an oral presentation at Research Fair
 
 
    # ----------------------------------------- #
@@ -109,11 +108,16 @@ certifications:
 
     - name: <strong>Student Presentation Award</strong>
       start: 2024-02-22
-      organization: 40th Annual Meeting of the Apicultural Society of Korea with the International Conference of COLOSS Asia
+      organization: 40th Annual Meeting of the Apicultural Society of Korea with the International Conference of COLOSS Asia 2024
       details: |
         Presentation Award, “Metagenomic Analysis of Viral Diversity in _Apis cerana_ Genome”.
 
-
+    - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
+      start: 2024-09
+      organization: University of Jeonbuk National
+      details: |
+        Awarded a research grant of KRW 3,000,000 (~2,200 USD as of Mar 2024).
+        
     - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
       start: 2024-09
       organization: University of Jeonbuk National
@@ -169,4 +173,3 @@ publications:
       link: "https://brill.com/view/journals/jiff/10/11/article-p1905_13.xml"
       authors: Kim, E, H-J Koo, <u>Ji-Young Kim</u>, JH Baek, C-O Kim, K Park, and J-S Yoon
       conference: "Journal of Insects as Food and Feed, (2024)"
-
