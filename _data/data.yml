@@ -87,7 +87,7 @@ experiences:
 
 
 certifications:
-  title: Fellowships
+  title: Academic Awards and Grants
   list:
     - name: <strong>17th Asian Institute in Statistical Genetics and Genomics</strong>
       start: 2023-07-17
@@ -107,6 +107,18 @@ certifications:
    # ----------------------------------------- #
 
 
+    - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
+      start: 2024-09
+      organization: University of Jeonbuk National
+      details: |
+        Awarded a research grant of KRW 3,000,000 (~2,200 USD as of Mar 2024).
+
+    - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
+      start: 2024-09
+      organization: University of Jeonbuk National
+      details: |
+        Awarded a research grant of KRW 3,000,000 (~2,200 USD as of Mar 2024).
+        
     - name: <strong>BK21 FOUR Program by Jeonbuk National University Research Grant</strong>
       start: 2024-09
       organization: University of Jeonbuk National
