@@ -175,12 +175,12 @@ publications:
   papers:
     - title: "Complete Genome Sequence of an Oryctes Rhinoceros Nudivirus Isolated from Korean Rhinoceros Beetles (Trypoxylus Dichotomus) in Korea."
       link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485680/"
-      authors: "Eunsun Kim, <u>Ji-Young Kim</u>, Wontae Kim, Seokhyun Lee, Kwan-Ho Park, June-Sun Yoon"
+      authors: "Eunsun Kim*, <u>Ji-Young Kim*</u>, Wontae Kim, Seokhyun Lee, Kwan-Ho Park, June-Sun Yoon"
       conference: "Virus Research, (2023), IF (5.0)" 
 
     - title: "Crisis in South Korean Cricket Farms: Occurrence of Gryllus Bimaculatus Densovirus and Its Spread."
       link: "https://brill.com/view/journals/jiff/10/11/article-p1905_13.xml"
-      authors: Kim, E, H-J Koo, <u>Ji-Young Kim</u>, JH Baek, C-O Kim, K Park, and J-S Yoon
+      authors: Kim, E*, H-J Koo*, <u>Ji-Young Kim</u>, JH Baek, C-O Kim, K Park, and J-S Yoon
       conference: "Journal of Insects as Food and Feed, (2024), IF (4.7) | Top 5% most-cited paper in the field"
       
       
