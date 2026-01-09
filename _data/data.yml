@@ -51,6 +51,15 @@ career-profile:
 education:
   title: Education
   info:
+
+  - degree: <strong>PhD Student (Incoming) in Functional Plant Science</strong>
+    
+    university: University of Seoul National 
+    time: 2026 - Present
+    details: |
+      <b>Laboratory</b>: Laboratory of Functional Plants, Seoul National University <br>
+      <b>Research focus</b>: Plant functional genomics, plant–microbe interactions, and omics-based analysis
+  
   - degree: <strong>MSc in Department of Agricualutral Convergence Technology</strong>
   
     university: University of Jeonbuk National
